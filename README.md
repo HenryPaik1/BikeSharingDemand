@@ -1,7 +1,7 @@
 # Bike Sharing Demand: by linear regression
 - Kaggle: https://www.kaggle.com/c/bike-sharing-demand
 - Result
-<img src="result.png" width=300>
+<img src="result.png">
 
 ## Data Fields
 - datetime - hourly date + timestamp  

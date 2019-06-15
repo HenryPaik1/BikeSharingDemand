@@ -21,3 +21,11 @@
 - registered - number of registered user rentals initiated
 - count - number of total rentals
 
+## Key concept: Interaction between features
+- eg. re-categorized hour category \* temperature 
+- x axis: temperature 
+- y axis: log transformed count(y) 
+<strong>no interaction</strong>
+<img src="bike1">
+<strong>interaction</strong>
+<img src="bike1">

@@ -25,11 +25,13 @@
 - eg. re-categorized hour category \* temperature 
 - x axis: temperature 
 - y axis: log transformed count(y) 
+
 <a href="">
 	<img src="bike1.png">
 	<strong>No Interaction</strong>
 </a>
+
 <a href="">
-	<strong>interaction</strong>
-	<img src="bike1.png">
+	<strong>Interaction</strong>
+	<img src="bike2.png">
 </a>

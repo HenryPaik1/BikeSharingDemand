@@ -21,15 +21,15 @@
 - registered - number of registered user rentals initiated
 - count - number of total rentals
 
-## Key concept: Interaction between features
+## Key concept: Interaction between features and create new category features
 - eg. re-categorized hour category \* temperature 
 - x axis: temperature 
 - y axis: log transformed count(y) 
 
-<h3>a) No Interaction</h3>
+<h3>a) No Interaction and No Category</h3>
 <img src="bike1.png">
 
 
-<h3>b) Interaction</h3>
+<h3>b) Interaction and Category</h3>
 <img src="bike2.png">
 

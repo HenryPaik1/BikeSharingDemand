@@ -26,10 +26,8 @@
 - x axis: temperature 
 - y axis: log transformed count(y) 
 
-<a href="">
-	<img src="bike1.png">
-	<strong>No Interaction</strong>
-</a>
+<img src="bike1.png">
+<center>No Interaction</center>
 
 <a href="">
 	<strong>Interaction</strong>

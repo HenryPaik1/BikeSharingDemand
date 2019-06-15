@@ -4,7 +4,7 @@
 <img src="result.png">
 
 ## Data Fields 
-- datetime - hourly date + timestamp  
+- datetime - hourly date + timestamp
 - season -  1 = spring, 2 = summer, 3 = fall, 4 = winter 
 - holiday - whether the day is considered a holiday
 - workingday - whether the day is neither a weekend nor holiday
@@ -25,7 +25,11 @@
 - eg. re-categorized hour category \* temperature 
 - x axis: temperature 
 - y axis: log transformed count(y) 
-<strong>no interaction</strong>
-<img src="bike1.png">
-<strong>interaction</strong>
-<img src="bike1.png">
+<a href="">
+	<img src="bike1.png">
+	<strong>No Interaction</strong>
+</a>
+<a href="">
+	<strong>interaction</strong>
+	<img src="bike1.png">
+</a>
